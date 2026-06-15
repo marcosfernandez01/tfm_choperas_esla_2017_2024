@@ -1,0 +1,47 @@
+# Datos de entrada y resultados
+data/
+outputs/
+
+# Archivos espaciales vectoriales
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.qix
+*.gpkg
+*.geojson
+
+# Rásteres
+*.tif
+*.tiff
+*.img
+*.vrt
+
+# Tablas y archivos derivados
+*.csv
+*.xlsx
+*.xls
+*.ods
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+
+# Archivos temporales de R y RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Archivos temporales generales
+*.tmp
+*.bak
+*.aux
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
